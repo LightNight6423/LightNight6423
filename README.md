@@ -1,5 +1,8 @@
 # 💫 About Me:
-Je suis en première année de BUT informatique à Limoges<br>J'ai 19 ans<br>Je suis fan de jeu vidéos et d'images/animations<br>Je suis très actif et déterminé
+💻Je suis en première année de BUT informatique à Limoges  
+🎉J'ai 19 ans  
+🕹️Je suis fan de jeu vidéos et d'images/animations  
+😄Je suis très actif et déterminé pour les projets qui me passionent  
 
 
 ## 🌐 Socials:
