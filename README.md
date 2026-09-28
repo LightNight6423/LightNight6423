@@ -1,5 +1,5 @@
 # 💫 A propos de moi :
-💻Je suis en deuxième année de BUT informatique à Limoges  
+💻Je suis en troisième année de BUT informatique à Limoges  
 🎉J'ai 19 ans  
 🕹️Je suis fan de jeu vidéos et d'images/animations  
 😄Je suis très actif et déterminé pour les projets qui me passionent  
