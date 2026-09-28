@@ -1,26 +1,86 @@
-# 💫 A propos de moi :
-💻Je suis en troisième année de BUT informatique à Limoges  
-🎉J'ai 19 ans  
-🕹️Je suis fan de jeu vidéos et d'images/animations  
-😄Je suis très actif et déterminé pour les projets qui me passionent  
+<!-- ======================= HEADER ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=220&section=header&text=Salut%2C%20moi%20c'est%20Alexandre%20!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=LightNight6423&descAlignY=58&descSize=20" alt="header" width="100%"/>
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+%C3%89tudiant+en+BUT+Informatique+%C3%A0+Limoges;%F0%9F%8E%AE+Fan+de+jeux+vid%C3%A9o;%F0%9F%8E%A8+Passionn%C3%A9+d'images+et+d'animations;%F0%9F%9A%80+Toujours+motiv%C3%A9+par+de+nouveaux+projets" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Réseaux sociaux :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alexandre_dcrt_23)  
-✉️Mon adresse e-mail étudiante : alexandre.ducouret@etu.unilim.fr  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LightNight6423&label=Visites&color=blueviolet&style=for-the-badge" alt="visites"/>
+  <a href="https://instagram.com/alexandre_dcrt_23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:alexandre.ducouret@etu.unilim.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-# 💻 Technologies connues :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LightNight6423&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LightNight6423&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LightNight6423&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- ======================= ABOUT ======================= -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> À propos de moi
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LightNight6423&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<table>
+<tr>
+<td width="60%">
 
----
-[![](https://visitcount.itsvg.in/api?id=LightNight6423&icon=0&color=0)](https://visitcount.itsvg.in)
+```js
+const alexandre = {
+  age: 19,
+  formation: "BUT Informatique — 2ème année",
+  ville: "Limoges 🇫🇷",
+  passions: ["🎮 Jeux vidéo", "🎨 Images", "🎞️ Animations"],
+  mindset: "Actif & déterminé sur les projets qui me passionnent 🔥",
+};
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</td>
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding"/>
+</td>
+</tr>
+</table>
 
+<!-- ======================= SKILLS ======================= -->
+## 🛠️ Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,python,r,html,css,bash,mysql,postgres,linux,git,vscode&perline=6" alt="skills"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+</p>
+
+<!-- ======================= STATS ======================= -->
+## 📊 Stats GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LightNight6423&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightNight6423&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="langs"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LightNight6423&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LightNight6423&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="activity graph"/>
+</p>
+
+<!-- ======================= TROPHIES ======================= -->
+## 🏆 Trophées
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LightNight6423&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="trophies"/>
+</p>
+
+<!-- ======================= FOOTER ======================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=450&lines=Merci+de+ta+visite+!+%E2%9C%A8;N'h%C3%A9site+pas+%C3%A0+laisser+une+%E2%AD%90" alt="footer typing"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:E100FF,100:7F00FF&height=120&section=footer" width="100%" alt="footer"/>
+</p>
