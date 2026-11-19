@@ -13,6 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=LightNight6423&label=Visites&color=blueviolet&style=for-the-badge" alt="visites"/>
   <a href="https://instagram.com/alexandre_dcrt_23"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:alexandre.ducouret@etu.unilim.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/alexandre-ducouret-190a7b384/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://alexandre-portfolio.smashballoon.fr"><img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <!-- ======================= ABOUT ======================= -->
@@ -24,8 +26,8 @@
 
 ```js
 const alexandre = {
-  age: 19,
-  formation: "BUT Informatique — 2ème année",
+  age: 20,
+  formation: "BUT Informatique — 3ème année",
   ville: "Limoges 🇫🇷",
   passions: ["🎮 Jeux vidéo", "🎨 Images", "🎞️ Animations"],
   mindset: "Actif & déterminé sur les projets qui me passionnent 🔥",
