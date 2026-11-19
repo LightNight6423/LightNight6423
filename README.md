@@ -44,14 +44,10 @@ const alexandre = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,r,html,css,bash,mysql,postgres,linux,git,vscode&perline=6" alt="skills"/>
+    <img src="https://skillicons.dev/icons?i=rust,java,python,html,css,php,laravel,mysql,mariadb,linux,git,vscode&perline=6" alt="skills"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
-</p>
 
 <!-- ======================= STATS ======================= -->
 ## 📊 Stats GitHub
