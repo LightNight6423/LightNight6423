@@ -44,7 +44,7 @@ const alexandre = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,java,python,html,css,php,laravel,mysql,maria,javascript,linux,git,vscode&perline=6" alt="skills"/>
+    <img src="https://skillicons.dev/icons?i=rust,java,python,html,css,php,laravel,mysql,mariadb,javascript,linux,git,vscode&perline=6" alt="skills"/>
   </a>
 </p>
 
